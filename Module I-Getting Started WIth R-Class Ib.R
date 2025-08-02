@@ -270,3 +270,7 @@ load("full_workspace.RData")
 # Save the cleaned dataset in your clean_data folder with the name patient_info_clean.csv
 # Save your R script in your script folder with name "class_Ib"
 # Upload "class_Ib" R script into your GitHub repository
+# Save your R workspace with name "YourName_Class_Ib_Assignment.RData" and upload the saved .RData file in the assignment submission form.
+
+# Assignment Submission form: https://forms.gle/DekDsysCnEvzzBAr7
+
