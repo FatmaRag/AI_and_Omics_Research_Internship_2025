@@ -25,9 +25,7 @@ All lectures will be shared on our YouTube channel. Follow the channel for updat
 ## Task & Assignments 
 1. Install R, RStudio, and RTools on your system.
 2. Create a working directory and R project, organize folders, then load and clean patient_info.csv by checking structure and converting data types. Task details are included in the [Class Ib R script](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/Module%20I-Getting%20Started%20WIth%20R-Class%20Ib.R) check script for full instructions.
-
-### Submit your assignment here: https://forms.gle/DekDsysCnEvzzBAr7
-
+ > **Deadline: Submit your assignment by Tuesday, 5th August 2025 using the Google Form provided.** https://forms.gle/ATR1rTVnQxKGVMeH6
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 All materials will be updated throughout the internship to help you follow along with the sessions and complete your tasks efficiently.
 If you have any questions, please reach out via provided Discord community.  
